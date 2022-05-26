@@ -49,8 +49,9 @@ also micrometeorological measurements, achieved by the script,
     ```bash
     $ cd scripts-ec-z0d-fp
     ```
-* Unpack the zipped file of dependent libraries for our scripts and set up the
-  environmentl to run the scripts.
+* Unpack the zipped file of dependent libraries (download the zip file from 
+  [the release page](https://github.com/zhanlilz/scripts-ec-z0d-fp/releases)) 
+  for our scripts and set up the environmentl to run the scripts.
     ```bash
     $ mkdir ec-z0d-fp-env
     $ tar -C ec-z0d-fp-env -xzf ec-z0d-fp-env.tar.gz
